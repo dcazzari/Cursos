@@ -1,0 +1,16 @@
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\bin\Debug\net5.0\cursocsharp.exe
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\bin\Debug\net5.0\cursocsharp.deps.json
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\bin\Debug\net5.0\cursocsharp.runtimeconfig.json
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\bin\Debug\net5.0\cursocsharp.runtimeconfig.dev.json
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\bin\Debug\net5.0\cursocsharp.dll
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\bin\Debug\net5.0\ref\cursocsharp.dll
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\bin\Debug\net5.0\cursocsharp.pdb
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\obj\Debug\net5.0\cursocsharp.csprojAssemblyReference.cache
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\obj\Debug\net5.0\cursocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\obj\Debug\net5.0\cursocsharp.AssemblyInfoInputs.cache
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\obj\Debug\net5.0\cursocsharp.AssemblyInfo.cs
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\obj\Debug\net5.0\cursocsharp.csproj.CoreCompileInputs.cache
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\obj\Debug\net5.0\cursocsharp.dll
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\obj\Debug\net5.0\ref\cursocsharp.dll
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\obj\Debug\net5.0\cursocsharp.pdb
+C:\Users\TAMMY\Documents\CURSO C#\Aulas\Aula01\cursocsharp\obj\Debug\net5.0\cursocsharp.genruntimeconfig.cache
